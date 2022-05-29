@@ -16,7 +16,7 @@ Skills: MONGODB/ REACT / JS / NODE JS/EXPRESS JS/HTML/CSS/BOOTSTRAP5
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on gitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Twitter: @AhsanulHuq6[enter link description here](https://twitter.com/AhsanulHuq6) And Facebook : ahsanul.huq.984[facbook](https://www.facebook.com/ahsanul.huq.984/)
+- 📫 How to reach me: Twitter: @AhsanulHuq6[twitter](https://twitter.com/AhsanulHuq6) And Facebook : ahsanul.huq.984[facbook](https://www.facebook.com/ahsanul.huq.984/)
 - ⚡ Fun fact: Anything 😂 
 - 
 
