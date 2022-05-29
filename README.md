@@ -8,18 +8,17 @@ I'm a full-stack web application developer based on MERN  who is passionate abou
 Why MERN Stack?
 Why use the MERN stack for offshore IT projects? The MERN stack is an excellent choice for companies wishing to develop high-quality web applications. Indeed, this stack, in addition to using high-performance and customized technologies, allows for web applications and software to be developed very quickly!
 
-![Profile views](https://gpvc.arturio.dev/Ahsan5313)
-
 Skills: MONGODB/ REACT / JS / NODE JS/EXPRESS JS/HTML/CSS/BOOTSTRAP5
 
 - 🔭 I’m currently working on MERN Stack 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on gitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Twitter: @AhsanulHuq6[twitter](https://twitter.com/AhsanulHuq6) And Facebook : ahsanul.huq.984[facbook](https://www.facebook.com/ahsanul.huq.984/)
+- 📫 How to reach me: with the help of social media 
 - ⚡ Fun fact: Anything 😂 
 
 
+- ![Profile views](https://gpvc.arturio.dev/Ahsan5313)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahsan5313)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsanul-huq-184590210//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahsanul.huq.984/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahsanulhuq17/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AhsanulHuq6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16986026/ahsanul-huq)  
 
