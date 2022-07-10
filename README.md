@@ -1,4 +1,4 @@
-<img src="https://github.com/Ahsan5313/Ahsan5313/blob/main/Get%20Touch.png"/>
+<img src="https://github.com/Ahsan5313/Ahsan5313/blob/main/Get%20Touch.png" width="1280"/> <br>
 ### Hi there 👋, This is Ahsanul Huq
 ### MERN Stack Software Engineer
 
