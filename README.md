@@ -1,4 +1,4 @@
-<img src="https://twitter.com/AhsanulHuq6/header_photo" width="1280"/> <br>
+
 ### Hi there 👋, This is Ahsanul Huq
 ### MERN Stack Software Engineer
 
