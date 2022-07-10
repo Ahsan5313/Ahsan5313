@@ -106,6 +106,9 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 
 <br/>  
 
+## Example Of Work
+<img src="https://github.com/Ahsan5313/Ahsan5313/blob/main/covid19.gif" width="256"/>
+
 - 🔭 I’m currently working on MERN Stack 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on gitHub 
