@@ -108,7 +108,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 </td></tr></table>  
 <br/>
 
-# 📋 Languages
+## 📋 Languages
 
 <br/>
 
@@ -124,7 +124,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 
 <br/> 
 
-# 📚 Frameworks, Platforms and Libraries
+## 📚 Frameworks, Platforms and Libraries
 
 <br/>
 
@@ -146,7 +146,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 
 <br/> 
 
-# 💾 Databases
+## 💾 Databases
 
 <br/> 
 
