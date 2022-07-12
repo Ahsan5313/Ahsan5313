@@ -130,8 +130,6 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan5313)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan5313)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan5313)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ahsan5313)  
