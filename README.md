@@ -114,7 +114,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 <br/><br/>  
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ahsan5313&show_icons=true&theme=radical"/>
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan5313"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan5313"/>
 <br/> <br/> 
 <br/> 
 
