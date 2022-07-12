@@ -108,7 +108,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 </td></tr></table>  
 <br/>
 
-# Languages
+# 📋 Languages
 
 <br/>
 
@@ -124,7 +124,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 
 <br/> 
 
-# Frameworks, Platforms and Libraries
+# 📚 Frameworks, Platforms and Libraries
 
 <br/>
 
@@ -147,6 +147,15 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 <br/> 
 
 # 💾 Databases
+
+<br/> 
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/> 
 
