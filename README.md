@@ -158,6 +158,11 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/> 
+## 🔬 CI
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<br/> 
 
 ## Example Of Work
 <img width="256" src="https://github.com/Ahsan5313/Ahsan5313/blob/main/covid19.gif" />
