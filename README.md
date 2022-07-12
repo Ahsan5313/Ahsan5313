@@ -112,8 +112,7 @@ Why use the MERN stack for offshore IT projects? The MERN stack is an excellent 
 ## Example Of Work
 <img align="left" width="50%" src="https://github.com/Ahsan5313/Ahsan5313/blob/main/covid19.gif" />
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ahsan5313&show_icons=true&theme=radical"/>
-<br/><br/>  
-<br/>  
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ahsan5313&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan5313"/>
